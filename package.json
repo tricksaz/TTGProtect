@@ -1,7 +1,7 @@
 {
   "name": "ttgprotect",
   "version": "2.7",
-  "description": "TTGProtect, a discord moderation bot for @everyone",
+  "description": "Cloud, a discord moderation bot for streamers.",
   "main": "bot.js",
   "dependencies": {
     "chalk": "^2.3.1",
@@ -18,6 +18,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TTGProtect Development Team",
+  "author": "Cloud Development Team",
   "license": "None"
 }
