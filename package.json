@@ -1,5 +1,5 @@
 {
-  "name": "ttgprotect",
+  "name": "Cloud",
   "version": "2.7",
   "description": "Cloud, a discord moderation bot for streamers.",
   "main": "bot.js",
